@@ -1,7 +1,7 @@
 # Crosshair Overlay
 
 Ts does not work twin 🥀
-- Download the latest [release]([https://github.com/jonejadave/crosshair-overlay/releases/latest/download/twitch-griefs-1.0.0.zip])
+- Download the latest [release](https://github.com/jonejadave/crosshair-overlay/releases/latest/download/twitch-griefs-1.0.0.zip)
 
 ## What It Does
 

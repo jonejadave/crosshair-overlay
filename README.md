@@ -8,9 +8,8 @@ Makes funny crosshair on your screen
 
 That’s it for now. No fancy features yet.
 
-[![Watch the video](https://img.youtube.com/vi/Qj-0nzVuN6M/maxresdefault.jpg)](https://youtu.be/Qj-0nzVuN6M)
-
 ### [Watch this video on YouTube](https://youtu.be/Qj-0nzVuN6M)
+[![Watch the video](https://img.youtube.com/vi/Qj-0nzVuN6M/maxresdefault.jpg)](https://youtu.be/Qj-0nzVuN6M)
 
 
 ## Roadmap / Stuff Coming Soon
